@@ -78,7 +78,7 @@ Você deve adicionar os links para o vídeo no Youtube e para o episódio do pod
 > **Atenção:** O arquivo de áudio não pode ter mais de 50 MB. Mais do que isso, você terá que hospedar em outro lugar.
 
 
-Depois você vai fazer o commit das alterações para o seu repositório e solicitar um Git Pull Request das alterações, como mostrado em sala. 
+Depois você vai fazer o commit das alterações e fazer um push (se estiver trabalhando localmente) para o seu repositório e solicitar um Git Pull Request das alterações, como mostrado em sala. 
 
 
 
