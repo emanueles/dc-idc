@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Post
+description: Postagem de Divulgação Científica
 image:
 
 # Badge style

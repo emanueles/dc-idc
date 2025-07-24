@@ -1,23 +1,23 @@
 ---
-title: Math Typesetting
-description: Math typesetting using KaTeX
-date: 2023-08-24 00:00:00+0000
+title: Textos Matemáticos
+description: Textos matemáticos usando KaTeX
+date: 2025-07-23 00:00:00+0000
 math: true
 ---
 
-Stack has built-in support for math typesetting using [KaTeX](https://katex.org/).
+Stack possui suporte integrado para textos matemáticos usando [KaTeX](https://katex.org/).
 
-**It's not enabled by default side-wide,** but you can enable it for individual posts by adding `math: true` to the front matter. Or you can enable it side-wide by adding `math = true` to the `params.article` section in `config.toml`.
+**Não é habilitado por padrão em todas as páginas,** mas você pode habilitá-lo para postagens individuais adicionando `math: true` à matéria principal. Ou você pode habilitá-lo em todas as páginas adicionando `math = true` à seção `params.article` em `config.toml`.
 
-## Inline math
+## Matemática em linha
 
-This is an inline mathematical expression: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
+Esta é uma expressão matemática em linha: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
 
 ```markdown
 $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
 ```
 
-## Block math
+## Blocos matemáticos
 
 $$
     \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
