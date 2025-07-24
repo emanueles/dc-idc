@@ -56,8 +56,7 @@ Dentro da pasta `equipeXX` você vai adicionar um arquivo chamado `index.md`. Ve
 
 Você deve alterar o preâmbulo do `index.md` de acordo com os dados da sua postagem:
 
-````
-toml
+```
 ---
 title: Exemplo de Post                    # <- Altere o título
 description: Veja um exemplo de postagem  # <- Altere a descrição
@@ -79,9 +78,4 @@ Você deve adicionar os links para o vídeo no Youtube e para o episódio do pod
 
 
 Depois você vai fazer o commit das alterações e fazer um push (se estiver trabalhando localmente) para o seu repositório e solicitar um Git Pull Request das alterações, como mostrado em sala. 
-
-
-
-
-
 
