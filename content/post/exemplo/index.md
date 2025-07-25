@@ -23,7 +23,7 @@ Nossa equipe se interessou pelos seguintes temas:
   
 # Power BI ou Tableau? Qual deles é melhor?
 
-O tema do primeiro produto de divulgação científica é **Visualização de Dados** e baseou-se no artigo [Investigação de softwares para análise de dados: uma revisão da literatura](https://example.com/artigo), de Autor 1, Autor 2 e Autor 3.
+O tema do primeiro produto de divulgação científica é **Visualização de Dados** e baseou-se no artigo [Investigação de softwares para análise de dados: uma revisão da literatura](https://example.com/artigo2), de Autor 1, Autor 2 e Autor 3.
 
 Neste vídeo fazemos uma comparação detalhada entre o Power BI e o Tableau, levando em consideração vários critérios que podem ajudar os usuários a escolherem o melhor software para as necessidades deles.
 
