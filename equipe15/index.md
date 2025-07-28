@@ -36,4 +36,4 @@ Durante a produção do Podcast, focamos em apresentar, "viralisar", trazer a to
 
 <!-- [Transcrição](transcript.txt) -->
 
-> Foto da Capa de [Tamires Paulino](tamirespaulino68@gmail.com) on [Unsplash](https://unsplash.com/)
+> Foto da Capa de [Tamires Paulino](tamirespaulino68@gmail.com) on [CANVA](https://www.canva.com/pt_br/)
