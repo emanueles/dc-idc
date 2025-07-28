@@ -12,7 +12,7 @@ tags:
 weight: 1                                 # <- Deixe como está
 ---
 
-**Autores**: [Caio Saboia](caiorubems@gmail.com), [Mateus Walraven](mateuswalravenmw@gmail.com) e [Gleidistony Mendes](gleidistonymendes@gmail.com) [Tamires Paulino](tamirespaulino68@gmail.com) 
+**Autores**: [Caio Saboia](caiorubems@gmail.com), [Mateus Walraven](mateuswalravenmw@gmail.com), [Gleidistony Mendes](gleidistonymendes@gmail.com) e [Tamires Paulino](tamirespaulino68@gmail.com) 
 
 Principais temas e interesses abordados pela a equipe: 
 
