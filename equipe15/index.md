@@ -29,11 +29,11 @@ Neste vídeo fazemos uma comparação detalhada entre o Power BI e o Tableau, le
 {{< youtube "1zNnxbFhh5s" >}}
 
 # Viralizando o Perigo, O Impacto das Notícias Falsas
-O segundo produto foi um episódio de podcast no tema de **Matemática Computacional** em que espero convencê-los da importância de se estudar Cálculo Numérico.
+Durante a produção do Podcast, focamos em apresentar, "viralisar", trazer a tona as notícias relacionadas a fake news. Alinhado com uma conversa um pouco mais descontraida, menos formal, para conseguir incluir tanto os mais velhos como os mais novos. Dito isso, acrescentamos também, durante o podcast, como funciona a disseminação das fake news e até mesmo sua origem. Aproveitem!
 
 
-{< audio "PODCAST-FINAL.mp3" >}
+{{< audio "PODCAST-FINAL.mp3" >}}
 
-[Transcrição](transcript.txt)
+<!-- [Transcrição](transcript.txt) -->
 
 > Foto da Capa de [Tamires Paulino](tamirespaulino68@gmail.com) on [Unsplash](https://unsplash.com/)
