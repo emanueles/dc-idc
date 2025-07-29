@@ -1,5 +1,5 @@
 ---
-title: Decidir, Escolher e Analisar; Como as máquinas ajudam as pessoas
+title: Decidir, Escolher e Analisar; Como as máquinas ajudam as pessoas.
 description: "Como a inteligência artificial tem influenciado suas decisões, mesmo sem você perceber? Em resposta a essa questão tão impontante, foi apresentado uma estrutura de vídeo exlicando as formas como empresas e pesssoas podem estar direcionando nossas escolhas baseado em descisões pre-programadas para analisar e lhe sugerir uma melhor opção. E apresentando os perigos que também podem surgir.
 
 slug: Equipe11 - Decidir, escolher e analisar; como as máquina ajudam as pessoas
