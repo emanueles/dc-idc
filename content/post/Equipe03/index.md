@@ -41,10 +41,8 @@ Dispositivos médicos inteligentes, como relógios e sensores corporais, estão 
 🎙️ Entrevista com o Prof. César Lincoln
 O nosso podcast contou com uma entrevista exclusiva com o professor César Lincoln, um dos pesquisadores responsáveis, que comentou os impactos da Edge AI na medicina e os desafios futuros para essa tecnologia ganhar escala.
 
-⚠️ Apesar dos avanços, ainda há desafios como consumo de energia, variação entre dispositivos e adaptação dos modelos de IA, que precisam ser superados para consolidar essa revolução digital na área da saúde.
+⚠️ Apesar dos avanços, ainda há desafios como consumo de energia, variação entre dispositivos e a adaptação dos modelos de IA, que precisam ser superados para consolidar essa revolução digital na área da saúde.
 
 {{< audio "podcast_final.mp3" >}}
 
 [Transcrição](transcript.txt)
-
-
