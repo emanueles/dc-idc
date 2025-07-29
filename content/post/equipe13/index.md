@@ -3,7 +3,7 @@ title: Inteligência Computacional na Previsão de Doenças            # <- Alte
 description: Modelos SEIR e SIR aplicados à previsão da COVID-19    # <- Altere a descrição
 slug: equipe13-inteligencia-computacional                           # <- Altere o slug com equipeXX-temaprincipal
 date: 2025-07-29 00:00:00+0000                                      # <- Coloque a data do dia que inseriu o conteúdo         
-image: cover.jpg                                                    # <- Nome do arquivo de imagem com a capa (adicione à pasta) 
+image: capa.jpg                                                    # <- Nome do arquivo de imagem com a capa (adicione à pasta) 
 categories:
   - Post                                                            # <- Deixe como está
 tags:
