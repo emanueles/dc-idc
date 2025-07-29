@@ -1,8 +1,8 @@
 ---
-title: ADo ado ado                    # <- Altere o título
-description: Veja um exemplo de postagem  # <- Altere a descrição
-slug: equipe15                        # <- Altere o slug com equipeXX-temaprincipal
-date: 2025-07-24 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo         
+title: Dia a Dia com IA e Fake News                    # <- Altere o título
+description: Um video informativo, trazendo curiosidades sobre a IA no nosso dia a dia e um podcast trazendo um pouco mais sobre o assunto das Fake News. Um assunto bastante atual que, para alguns, causa bastante medo, mas que dentro do nosso conteúdo buscamos comentar sobre eles de forma mais leve e descontraida.   # <- Altere a descrição
+slug: equipe15-IAeFakeNews                       # <- Altere o slug com equipeXX-temaprincipal
+date: 2025-07-29 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo         
 image: CAPA_PODCAST.jpeg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta) 
 categories:
     - Post                                # <- Deixe como está
@@ -22,9 +22,9 @@ Principais temas e interesses abordados pela a equipe:
   
 # Curiosidades sobre a IA
 
-O tema do primeiro produto de divulgação científica é **Visualização de Dados** e baseou-se no artigo [Investigação de softwares para análise de dados: uma revisão da literatura](https://example.com/artigo2), de Autor 1, Autor 2 e Autor 3.
+Inicialmente, tivemos muitos artigos que se destacaram com seus conteúdos. De maneira geral, muito promissores, mas dentre eles a dissertação de mestrado ['FakeWhatsApp.BR: detecção de desinformação e desinformadores em grupos públicos do WhatsApp em PT-BR'](https://repositorio.ufc.br/handle/riufc/63379) do aluno [Lucas Cabral Carneiro da Cunha](https://www.escavador.com/sobre/6712681/lucas-cabral-carneiro-da-cunha) sobe a orintação do professor [José Maria da Silva Monteiro Filho](https://mdcc.ufc.br/pt/corpo-docente/jose-maria-da-silva-monteiro-filho/) da Universidade Federal do Ceará(UFC) foi de fato a nossa inspiração e o ponta-pé inicial para a produção do nosso trabalho, seja ele o vídeo ou o podcast.
 
-Neste vídeo fazemos uma comparação detalhada entre o Power BI e o Tableau, levando em consideração vários critérios que podem ajudar os usuários a escolherem o melhor software para as necessidades deles.
+Durante o vídeo, tratamos mais sobre mostrar, situar e até mesmo contextualizar sobre as IA's. Seja usando uma curiosidade ou usando uma aplicação prática no nosso dia a dia. Com momento descontraídos, uma conversa leve de um tema atual. Esperamos que desfrutem do nosso trabalho com levesa e suavidade. Aproveitem o video!
 
 {{< youtube "1zNnxbFhh5s" >}}
 
