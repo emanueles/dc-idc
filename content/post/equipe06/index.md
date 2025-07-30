@@ -3,7 +3,7 @@ title: Ciência de Dados e o mundo!
 description: Nesse projeto temos o objetivo de mostrar ao mundo como os diversos ramos da ciência de dados podem auxiliar em diferentes áreas. Gravamos um vídeo em formato de telejornal falando sobre análise exploratória e análise de dados nos esportes e como isso pode ajudar os times. Ademais, fizemos um episódio de podcast falando sobre teoria dos grafos e otimizaçã e como isso ajudou a prefeitura de uma cidade.
 slug: equipe06-teoriaDosGrafos
 date: 2025-07-26 00:00:00+0000
-image: cover.jpg
+image: equipe.jpeg
 categories:
     - Post
 tags:
