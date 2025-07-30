@@ -30,7 +30,7 @@ Na era digital, a desinformação circula com a mesma velocidade que a verdade �
 
 🔗 Artigo Fonte: https://enancib.ancib.org/index.php/enancib/xxiienancib/paper/view/1138
 
-{{< youtube "https://youtu.be/-eHG0cibxKo?si=5VIRacmmgdZHOmrD" >}}
+{{< youtube "-eHG0cibxKo" >}}
 
 # Machine Learning na Saúde
 🔬 Edge AI e Monitoramento Cardíaco: Inovação em Tempo Real
