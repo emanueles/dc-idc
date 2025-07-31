@@ -35,6 +35,3 @@ O segundo produto foi um episódio de podcast no tema de **Bem-estar Animal** em
 
 {{< audio "Podcast cadeira Introdução A Divulgação Cientifica.mp3" >}}
 
-[Transcrição](transcript.txt)
-
-> Foto da Capa de [Kevin Ku](https://unsplash.com/@ikukevk) on [Unsplash](https://unsplash.com/)
