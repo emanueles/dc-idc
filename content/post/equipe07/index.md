@@ -27,7 +27,7 @@ https://doi.org/10.1515/jqas-2022-0021), de Erik-Jan van Kesteren e Tom Bergkamp
 
 Neste vídeo mostramos um estudo baseado em estatistica para demonstrar que nem sempre é so a habilidade do piloto que importa para uma vitoria numa corrida de Formula 1.
 
-{{< [youtube "72QGMwv8HOk"](https://www.youtube.com/watch?v=RMtM7solA8c&authuser=2) >}}
+{{< [youtube "Piloto ou Carro? Estatística Explica!"](https://www.youtube.com/watch?v=RMtM7solA8c&authuser=2) >}}
 
 # Saúde e Bem-estar do animal de produção em Fortaleza
 O segundo produto foi um episódio de podcast no tema de **Bem-estar Animal** em que utilizamos um artigo de alunos da UFC que fizeram um estudo sobre a saúde e bem-estar dos animais de produção em Fortaleza.
