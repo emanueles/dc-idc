@@ -26,11 +26,10 @@ O tema do primeiro produto de divulgação científica é **Análise exploratór
 
 Neste vídeo explicamos algumas métricas de probabilidade e estatística e como essas medidas podem afetar uma partida de futebol. A partir dessas estatísticas, a equipe técnica dos times pode analisar novas formas de obter partidas ganhas.
 
-{{< youtube "vOY5cZp-N4Q" >}}
+[![Assista ao Vídeo](https://img.youtube.com/vi/vOY5cZp-N4Q/0.jpg)](https://www.youtube.com/watch?v=vOY5cZp-N4Q)
 
 # Otimização da rota de caminhões de coleta de lixo.
-O segundo produto foi um episódio de podcast, no formato de storytelling, com tema de **Teoria dos Grafos** em que nós relatamos o processo feito por um grupo de professores de universidades do Ceará, que propuseram uma otimização na rota que os caminhões de coleta de lixo fazem no bairro Centro, na cidade do Crato. Com essa proposta, a rota teve sua distância reduzida significativamente, o que trouxe uma economia surreal para a prefeitura da cidade, se liga só na nossa narração:
-
+O segundo produto foi um episódio de podcast, no formato de storytelling, com tema de **Teoria dos Grafos**, baseado no artigo [Análise crítica das rotas de coleta de resíduos sólidos urbanos no bairro centro do município do Crato/CE.] (https://repositorio.ufc.br/bitstream/riufc/69356/1/2020_art_mdaquino.pdf), em que nós relatamos o processo feito por um grupo de professores de universidades do Ceará, que propuseram uma otimização na rota que os caminhões de coleta de lixo fazem no bairro Centro, na cidade do Crato.Com essa proposta, a rota teve sua distância reduzida significativamente, o que trouxe uma economia surreal para a prefeitura da cidade, se liga só na nossa narração:
 
 {{< audio "CN_Apresentacao_Curta.mp3" >}}
 
