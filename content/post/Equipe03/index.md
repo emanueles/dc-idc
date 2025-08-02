@@ -1,8 +1,8 @@
 ---
-title: Pesquisas e artigos que você precisa conhecer
+title: Fake News nas Redes Sociais e Machine Learning na Saúde
 description: A tecnologia está cada vez mais presente no nosso dia a dia — da inteligência artificial que opera direto nos dispositivos até as ferramentas que ajudam a identificar fake news nas redes sociais. Neste post, você vai entender como essas inovações impactam sua rotina e por que é essencial usá-las com consciência.
 slug: equipe03-temaprincipal
-date: 2025-07-29 00:00:00+0000
+date: 2025-07-29 11:00:00+0000
 image: imagem_podcast_correta.png
 categories:
     - Post
@@ -42,7 +42,7 @@ Dispositivos médicos inteligentes, como relógios e sensores corporais, estão 
 💻 O estudo também demonstrou que dispositivos acessíveis como o Raspberry Pi podem alcançar alta eficiência, tornando o diagnóstico mais personalizado, contínuo e acessível para todos.
 
 🎙️ Entrevista com o Prof. César Lincoln
-O nosso podcast contou com uma entrevista exclusiva com o professor César Lincoln (cesarlincoln@dc.ufc.br), um dos pesquisadores responsáveis, que comentou os impactos da Edge AI na medicina e os desafios futuros para essa tecnologia ganhar escala.
+O nosso podcast contou com uma entrevista exclusiva com o professor [César Lincoln](https://www.instagram.com/cesarlincolnmattos), um dos pesquisadores responsáveis, que comentou os impactos da Edge AI na medicina e os desafios futuros para essa tecnologia ganhar escala.
 
 ⚠️ Apesar dos avanços, ainda há desafios como consumo de energia, variação entre dispositivos e a adaptação dos modelos de IA, que precisam ser superados para consolidar essa revolução digital na área da saúde.
 
