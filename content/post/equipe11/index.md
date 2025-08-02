@@ -1,8 +1,7 @@
 ---
-title: Decidir, Escolher e Analisar; Como as máquinas ajudam as pessoas.
-description: "Como a inteligência artificial tem influenciado suas decisões, mesmo sem você perceber? Em resposta a essa questão tão impontante, foi apresentado uma estrutura de vídeo exlicando as formas como empresas e pesssoas podem estar direcionando nossas escolhas baseado em descisões pre-programadas para analisar e lhe sugerir uma melhor opção. E apresentando os perigos que também podem surgir.
-
-slug: Equipe11 - Decidir, escolher e analisar; como as máquina ajudam as pessoas
+title: "Decidir, Escolher e Analisar: Como as Máquinas Ajudam as Pessoas"
+description: "Como a inteligência artificial tem influenciado suas decisões mesmo sem você perceber? Em resposta a essa questão tão impontante, foi apresentado uma estrutura de vídeo exlicando as formas como empresas e pesssoas podem estar direcionando nossas escolhas baseado em descisões pre-programadas para analisar e lhe sugerir uma melhor opção. E apresentando os perigos que também podem surgir."
+slug: "Decidir, escolher e analisar: como as máquina ajudam as pessoas"
 date: 2025-07-29 08:25:00+0000
 image: cover.jpg
 categories:
@@ -14,7 +13,7 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-**Autores**: [Gustavo Duarte](https://instagram.com/gustavoduarte_ds),[Felipe Reis](https://instagram.com/fellipe0901), [Eduardo Rodrigues](https://instagram.com/eduarddo_r) e [Emanuel Victor](https://instagram.com/emanuel_victor777). 
+**Autores**: [Gustavo Duarte](https://instagram.com/gustavoduarte_ds), [Felipe Reis](https://instagram.com/fellipe0901), [Eduardo Rodrigues](https://instagram.com/eduarddo_r) e [Emanuel Victor](https://instagram.com/emanuel_victor777). 
 
 Nossa equipe se interessou pelos seguintes temas:
 
