@@ -2,7 +2,7 @@
 title: Inteligência Artificial e Acessibilidade e Machine Learning na COVID-19
 description: Vídeo e podcast discutem o uso da IA para promover inclusão e apoiar decisões clínicas na pandemia de COVID-19.
 slug: equipe05-ia-acessibilidade-medicina
-date: 2025-07-30 00:00:00+0000
+date: 2025-07-30 22:00:00+0000
 image: capa.jpg
 categories:
     - Post
