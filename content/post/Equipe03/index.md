@@ -7,7 +7,8 @@ image: imagem_podcast_correta.png
 categories:
     - Post
 tags:
-    - Fake News nas Redes Sociais
+    - Fake News
+    - Machine Learning
     - Machine Learning na Saúde
 weight: 1      
 ---
