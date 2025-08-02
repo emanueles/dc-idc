@@ -1,24 +1,24 @@
 ---
-title: Dia a Dia com IA e Fake News                    # <- Altere o título
-description: Um video informativo, trazendo curiosidades sobre a IA no nosso dia a dia e um podcast trazendo um pouco mais sobre o assunto das Fake News. Um assunto bastante atual que, para alguns, causa bastante medo, mas que dentro do nosso conteúdo buscamos comentar sobre eles de forma mais leve e descontraida.   # <- Altere a descrição
-slug: equipe15-IAeFakeNews                       # <- Altere o slug com equipeXX-temaprincipal
-date: 2025-07-29 00:00:00+0000            # <- Coloque a data do dia que inseriu o conteúdo         
-image: CAPA_PODCAST.jpeg                          # <- Nome do arquivo de imagem com a capa (adicione à pasta) 
+title: Dia a Dia com IA e Fake News
+description: Um video informativo, trazendo curiosidades sobre a IA no nosso dia a dia e um podcast trazendo um pouco mais sobre o assunto das Fake News. Um assunto bastante atual que, para alguns, causa bastante medo, mas que dentro do nosso conteúdo buscamos comentar sobre eles de forma mais leve e descontraida.   
+slug: equipe15-IAeFakeNews    
+date: 2025-07-29 09:00:00+0000 
+image: CAPA_PODCAST.jpeg  
 categories:
-    - Post                                # <- Deixe como está
+    - Post                   
 tags:
-    - Curiosidades sobre a IA               # <- Altere para o tema do vídeo
-    - Viralizando o Perigo, O Impacto das Notícias Falsas            # <- Altere para o tema do episódio. Se for igual ao de cima, remova essa linha 
-weight: 1                                 # <- Deixe como está
+    - Curiosidades sobre a IA              
+    - Fake News
+weight: 1    
 ---
 
 **Autores**: [Caio Saboia](caiorubems@gmail.com), [Mateus Walraven](mateuswalravenmw@gmail.com), [Gleidistony Mendes](gleidistonymendes@gmail.com) e [Tamires Paulino](tamirespaulino68@gmail.com) 
 
 Principais temas e interesses abordados pela a equipe: 
 
- - Fake News;
- - IA no dia a dia;
- - Curidades e Perigos da IA;
+ - Fake News
+ - IA no dia a dia
+ - Curiosidades e Perigos da IA
   
 # Curiosidades sobre a IA
 
