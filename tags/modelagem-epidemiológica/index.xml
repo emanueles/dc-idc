@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Modelagem Epidemiológica on DC-IDC</title><link>https://emanueles.github.io/dc-idc/tags/modelagem-epidemiol%C3%B3gica/</link><description>Recent content in Modelagem Epidemiológica on DC-IDC</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Tue, 29 Jul 2025 10:00:00 +0000</lastBuildDate><atom:link href="https://emanueles.github.io/dc-idc/tags/modelagem-epidemiol%C3%B3gica/index.xml" rel="self" type="application/rss+xml"/><item><title>Inteligência Computacional na Previsão de Doenças</title><link>https://emanueles.github.io/dc-idc/p/equipe13-inteligencia-computacional/</link><pubDate>Tue, 29 Jul 2025 10:00:00 +0000</pubDate><guid>https://emanueles.github.io/dc-idc/p/equipe13-inteligencia-computacional/</guid><description>&lt;img src="https://emanueles.github.io/dc-idc/p/equipe13-inteligencia-computacional/capa.jpg" alt="Featured image of post Inteligência Computacional na Previsão de Doenças" />&lt;h2 id="-equipe-13">👥 Equipe 13
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a class="link" href="https://github.com/caikfra" target="_blank" rel="noopener"
+>Caik Franco (@caikfra)&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://github.com/AT-Roger" target="_blank" rel="noopener"
+>Rogério Ferreira (@AT-Roger)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="-vídeo-no-youtube">🎥 Vídeo no YouTube
+&lt;/h2>&lt;p>&lt;strong>Tema:&lt;/strong> &lt;em>Inteligência Computacional na Previsão de Doenças: Modelo SEIR e o Método da Busca Local&lt;/em>&lt;br>
+&lt;strong>Autores:&lt;/strong> &lt;a class="link" href="https://github.com/caikfra" target="_blank" rel="noopener"
+>Caik Franco (@caikfra)&lt;/a>, &lt;a class="link" href="https://github.com/AT-Roger" target="_blank" rel="noopener"
+>Rogério Ferreira (@AT-Roger)&lt;/a>&lt;/p>
+&lt;p>&lt;strong>Resumo:&lt;/strong>&lt;br>
+Neste vídeo, exploramos como a &lt;strong>inteligência computacional&lt;/strong> pode ser aplicada para prever a transmissão de doenças, com foco no modelo &lt;strong>SEIR&lt;/strong> (Suscetíveis, Expostos, Infectados e Recuperados) e no método da &lt;strong>Busca Local&lt;/strong>.&lt;/p>
+&lt;p>O conteúdo foi inspirado em um artigo da &lt;strong>Universidade Federal do Ceará&lt;/strong> e aborda:&lt;/p>
+&lt;ul>
+&lt;li>O que são &lt;strong>modelos epidemiológicos&lt;/strong> e sua importância&lt;/li>
+&lt;li>A dinâmica do modelo &lt;strong>SEIR&lt;/strong>&lt;/li>
+&lt;li>Aplicações da &lt;strong>inteligência computacional&lt;/strong> (Busca Global, Busca Local, etc.)&lt;/li>
+&lt;li>Funcionamento prático da &lt;strong>Busca Local&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Desafios técnicos&lt;/strong> e soluções encontradas pelos autores&lt;/li>
+&lt;li>Um &lt;strong>exemplo de código&lt;/strong> prático&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Artigo base:&lt;/strong>&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;em>Estimation of SIR Epidemiological Model Parameters Using Computational Intelligence Methods Based on COVID-19 Data from Brazil&lt;/em>&lt;br>
+SALES, João Samuel Maciel de JÚNIOR; RODRIGUES MADEIRO, Rogério Ferreira; SILVA, João Paulo do Vale; COELHO, Ricardo.&lt;br>
+Disponível em: &lt;a class="link" href="https://proceedings.science/sbpo/sbpo-2024/trabalhos/estimation-of-sir-epidemiological-model-parameters-using-computational-intellige?lang=pt-br" target="_blank" rel="noopener"
+>Link do artigo&lt;/a>&lt;/p>&lt;/blockquote>
+&lt;p>📺 &lt;strong>Assista ao vídeo:&lt;/strong>&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/WfZu7jkYEYw"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;hr>
+&lt;h2 id="-episódio-do-podcast">🎧 Episódio do Podcast
+&lt;/h2>&lt;p>&lt;strong>Tema:&lt;/strong> &lt;em>Modelos Epidemiológicos e Predição com Inteligência Computacional&lt;/em>&lt;/p>
+&lt;p>Neste episódio, conversamos com &lt;strong>João Samuel Maciel de Sales&lt;/strong> (&lt;a class="link" href="mailto:joaosamuel.2001@gmail.com" >joaosamuel.2001@gmail.com&lt;/a>), doutorando da &lt;strong>Universidade Federal do Ceará&lt;/strong> e autor do artigo:&lt;/p>
+&lt;p>&lt;strong>&amp;ldquo;Estimation of SIR Epidemiological Model Parameters Using Computational Intelligence Methods Based on COVID-19 Data from Brazil&amp;rdquo;&lt;/strong>&lt;br>
+📄 DOI: &lt;a class="link" href="https://doi.org/10.59254/sbpo-2024-193627" target="_blank" rel="noopener"
+>10.59254/sbpo-2024-193627&lt;/a>&lt;/p>
+&lt;p>A conversa abordou de forma acessível:&lt;/p>
+&lt;ul>
+&lt;li>O papel do &lt;strong>preditor-corretor&lt;/strong> como motor dos métodos computacionais&lt;/li>
+&lt;li>A escolha pelo &lt;strong>modelo SIR&lt;/strong>, suas limitações e comparação com alternativas como redes neurais&lt;/li>
+&lt;li>Diferenças entre modelos como &lt;strong>SI, SIR e SEIR&lt;/strong>, em linguagem clara para o público jovem&lt;/li>
+&lt;li>Dificuldades de implementação e o uso da computação na modelagem de epidemias&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Apresentação:&lt;/strong> &lt;a class="link" href="https://github.com/AT-Roger" target="_blank" rel="noopener"
+>Rogério Ferreira (@AT-Roger)&lt;/a>.&lt;br>
+&lt;strong>Revisão:&lt;/strong> &lt;a class="link" href="https://github.com/caikfra" target="_blank" rel="noopener"
+>Caik Franco (@caikfra)&lt;/a>.&lt;br>
+&lt;strong>Convidado:&lt;/strong> &lt;a class="link" href="mailto:joaosamuel.2001@gmail.com" >João Samuel Maciel de Sales&lt;/a>.&lt;/p>
+&lt;p>🎙️ &lt;strong>Ouça o podcast:&lt;/strong>&lt;/p>
+&lt;div>
+&lt;audio
+controls
+src="modelos_epidemiologicos.mp3"
+>
+&lt;p>
+Your browser doesn't support HTML5 audio. Here is a
+&lt;a href="modelos_epidemiologicos.mp3">link to the audio&lt;/a> instead.
+&lt;/p>
+&lt;/video>
+&lt;/div>
+&lt;hr></description></item></channel></rss>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Html on DC-IDC</title><link>https://emanueles.github.io/dc-idc/tags/html/</link><description>Recent content in Html on DC-IDC</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://emanueles.github.io/dc-idc/tags/html/index.xml" rel="self" type="application/rss+xml"/><item><title>Guia de Sintaxe Markdown</title><link>https://emanueles.github.io/dc-idc/p/guia-de-sintaxe-markdown/</link><pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate><guid>https://emanueles.github.io/dc-idc/p/guia-de-sintaxe-markdown/</guid><description>&lt;p>Este artigo oferece um exemplo de sintaxe básica do Markdown que pode ser usada em arquivos de conteúdo do Hugo e também mostra se elementos HTML básicos são decorados com CSS em um tema do &lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
+>Hugo&lt;/a>.&lt;/p>
+&lt;h2 id="cabeçalhos">Cabeçalhos
+&lt;/h2>&lt;p>Os seguintes elementos HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> representam seis níveis de títulos de seção. &lt;code>&amp;lt;h1&amp;gt;&lt;/code> é o nível de seção mais alto, enquanto &lt;code>&amp;lt;h6&amp;gt;&lt;/code> é o mais baixo.&lt;/p>
+&lt;h1 id="h1">H1
+&lt;/h1>&lt;h2 id="h2">H2
+&lt;/h2>&lt;h3 id="h3">H3
+&lt;/h3>&lt;h4 id="h4">H4
+&lt;/h4>&lt;h5 id="h5">H5
+&lt;/h5>&lt;h6 id="h6">H6
+&lt;/h6>&lt;h2 id="parágrafo">Parágrafo
+&lt;/h2>&lt;p>Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p>
+&lt;p>Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p>
+&lt;h2 id="citações">Citações
+&lt;/h2>&lt;p>O elemento citação representa conteúdo citado de outra fonte, opcionalmente com uma referência que deve estar dentro de um elemento &lt;code>footer&lt;/code> ou &lt;code>cite&lt;/code> e, opcionalmente, com alterações em linha, como anotações e abreviações.&lt;/p>
+&lt;h3 id="citação-sem-atribuição">Citação sem atribuição
+&lt;/h3>&lt;blockquote>
+&lt;p>Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+&lt;strong>Note&lt;/strong> que você pode usar a &lt;em>sintaxe Markdown&lt;/em> dentro de uma citação.&lt;/p>&lt;/blockquote>
+&lt;h3 id="itação-sem-atribuição">itação sem atribuição
+&lt;/h3>&lt;blockquote>
+&lt;p>Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br>
+— &lt;cite>Rob Pike&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/cite>&lt;/p>&lt;/blockquote>
+&lt;h3 id="citação-usando-shortcode">Citação usando shortcode
+&lt;/h3>&lt;blockquote>
+&lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p>&lt;span class="cite">&lt;span>― &lt;/span>&lt;span>A famous person, &lt;/span>&lt;a href="https://en.wikipedia.org/wiki/Book">&lt;cite>The book they wrote&lt;/cite>&lt;/a>&lt;/span>&lt;/blockquote>
+&lt;h2 id="tabelas">Tabelas
+&lt;/h2>&lt;p>As tabelas não fazem parte da especificação principal do Markdown, mas o Hugo oferece suporte imediato a elas.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Name&lt;/th>
+&lt;th>Age&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Bob&lt;/td>
+&lt;td>27&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Alice&lt;/td>
+&lt;td>23&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="markdown-dentro-de-tabelas">Markdown dentro de tabelas
+&lt;/h3>&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Italics&lt;/th>
+&lt;th>Bold&lt;/th>
+&lt;th>Code&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>&lt;em>italics&lt;/em>&lt;/td>
+&lt;td>&lt;strong>bold&lt;/strong>&lt;/td>
+&lt;td>&lt;code>code&lt;/code>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>A&lt;/th>
+&lt;th>B&lt;/th>
+&lt;th>C&lt;/th>
+&lt;th>D&lt;/th>
+&lt;th>E&lt;/th>
+&lt;th>F&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td>
+&lt;td>Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td>
+&lt;td>Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td>
+&lt;td>Proin sit amet velit nec enim imperdiet vehicula.&lt;/td>
+&lt;td>Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td>
+&lt;td>Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="blocos-de-código">Blocos de código
+&lt;/h2>&lt;h3 id="blocos-de-código-com-aspas-simples-invertidas">Blocos de código com aspas simples invertidas
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="line">&lt;span class="cl">&lt;span class="cp">&amp;lt;!doctype html&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">html&lt;/span> &lt;span class="na">lang&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;en&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">head&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">meta&lt;/span> &lt;span class="na">charset&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;utf-8&amp;#34;&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Example HTML5 Document&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">title&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">head&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">body&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>Test&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">body&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">html&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="blocos-de-código-indentado-com-4-espaços">Blocos de código indentado com 4 espaços
+&lt;/h3>&lt;pre>&lt;code>&amp;lt;!doctype html&amp;gt;
+&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+&amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
+&amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+&amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code>&lt;/pre>
+&lt;h3 id="bloco-de-código-de-diff">Bloco de código de diff
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-diff" data-lang="diff">&lt;span class="line">&lt;span class="cl">[dependencies.bevy]
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">git = &amp;#34;https://github.com/bevyengine/bevy&amp;#34;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">rev = &amp;#34;11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13&amp;#34;
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gd">- features = [&amp;#34;dynamic&amp;#34;]
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gd">&lt;/span>&lt;span class="gi">+ features = [&amp;#34;jpeg&amp;#34;, &amp;#34;dynamic&amp;#34;]
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="bloco-de-código-de-uma-linha">Bloco de código de uma linha
+&lt;/h3>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-html" data-lang="html">&lt;span class="line">&lt;span class="cl">&lt;span class="p">&amp;lt;&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>A paragraph&lt;span class="p">&amp;lt;/&lt;/span>&lt;span class="nt">p&lt;/span>&lt;span class="p">&amp;gt;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h2 id="tipos-de-listas">Tipos de Listas
+&lt;/h2>&lt;h3 id="lista-ordenada">Lista Ordenada
+&lt;/h3>&lt;ol>
+&lt;li>Primeiro item&lt;/li>
+&lt;li>Segundo item&lt;/li>
+&lt;li>Terceiro item&lt;/li>
+&lt;/ol>
+&lt;h3 id="lista-não-ordenada">Lista Não Ordenada
+&lt;/h3>&lt;ul>
+&lt;li>Um item&lt;/li>
+&lt;li>Outro item&lt;/li>
+&lt;li>E ainda outro item&lt;/li>
+&lt;/ul>
+&lt;h3 id="lista-aninhada">Lista aninhada
+&lt;/h3>&lt;ul>
+&lt;li>Frutas
+&lt;ul>
+&lt;li>Maçã&lt;/li>
+&lt;li>Laranja&lt;/li>
+&lt;li>Banana&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Laticínios
+&lt;ul>
+&lt;li>Leite&lt;/li>
+&lt;li>Queijo&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="outros-elementos--abbr-sub-sup-kbd-mark">Outros Elementos — abbr, sub, sup, kbd, mark
+&lt;/h2>&lt;p>&lt;abbr title="Graphics Interchange Format">GIF&lt;/abbr> é um formato bitmap de imagem.&lt;/p>
+&lt;p>H&lt;sub>2&lt;/sub>O&lt;/p>
+&lt;p>X&lt;sup>n&lt;/sup> + Y&lt;sup>n&lt;/sup> = Z&lt;sup>n&lt;/sup>&lt;/p>
+&lt;p>Pressione &lt;kbd>CTRL&lt;/kbd> + &lt;kbd>ALT&lt;/kbd> + &lt;kbd>Delete&lt;/kbd> para finalizar a sessão.&lt;/p>
+&lt;p>A maioria das &lt;mark>salamandras&lt;/mark> são noturnas, e caçam insetos, vermese outras criaturas pequenas.&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>A citação acima foi obtida da &lt;a class="link" href="https://www.youtube.com/watch?v=PAAkCSZUG1c" target="_blank" rel="noopener"
+>palestra de Rob Pike&lt;/a> durante o Gopherfest, em 18 de novembro de 2015.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item></channel></rss>

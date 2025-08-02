@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Template on DC-IDC</title><link>https://emanueles.github.io/dc-idc/tags/template/</link><description>Recent content in Template on DC-IDC</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Thu, 24 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://emanueles.github.io/dc-idc/tags/template/index.xml" rel="self" type="application/rss+xml"/><item><title>Exemplo de Post</title><link>https://emanueles.github.io/dc-idc/p/exemplo-post/</link><pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate><guid>https://emanueles.github.io/dc-idc/p/exemplo-post/</guid><description>&lt;img src="https://emanueles.github.io/dc-idc/p/exemplo-post/cover.jpg" alt="Featured image of post Exemplo de Post" />&lt;p>&lt;strong>Autores&lt;/strong>: &lt;a class="link" href="https://instagram.com/username" target="_blank" rel="noopener"
+>João Silva&lt;/a>, &lt;a class="link" href="https://instagram.com/username" target="_blank" rel="noopener"
+>Maria dos Santos&lt;/a> e &lt;a class="link" href="https://instagram.com/username" target="_blank" rel="noopener"
+>José Pereira&lt;/a>.&lt;/p>
+&lt;p>Nossa equipe se interessou pelos seguintes temas:&lt;/p>
+&lt;ul>
+&lt;li>Visualização de Dados&lt;/li>
+&lt;li>Matemática Computacional&lt;/li>
+&lt;li>Bancos de Dados&lt;/li>
+&lt;/ul>
+&lt;h1 id="power-bi-ou-tableau-qual-deles-é-melhor">Power BI ou Tableau? Qual deles é melhor?
+&lt;/h1>&lt;p>O tema do primeiro produto de divulgação científica é &lt;strong>Visualização de Dados&lt;/strong> e baseou-se no artigo &lt;a class="link" href="https://example.com/artigo2" target="_blank" rel="noopener"
+>Investigação de softwares para análise de dados: uma revisão da literatura&lt;/a>, de Autor 1, Autor 2 e Autor 3.&lt;/p>
+&lt;p>Neste vídeo fazemos uma comparação detalhada entre o Power BI e o Tableau, levando em consideração vários critérios que podem ajudar os usuários a escolherem o melhor software para as necessidades deles.&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/72QGMwv8HOk"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h1 id="por-que-estudar-cálculo-numérico">Por que estudar Cálculo Numérico?
+&lt;/h1>&lt;p>O segundo produto foi um episódio de podcast no tema de &lt;strong>Matemática Computacional&lt;/strong> em que espero convencê-los da importância de se estudar Cálculo Numérico.&lt;/p>
+&lt;div>
+&lt;audio
+controls
+src="CN_Apresentacao_Curta.mp3"
+>
+&lt;p>
+Your browser doesn't support HTML5 audio. Here is a
+&lt;a href="CN_Apresentacao_Curta.mp3">link to the audio&lt;/a> instead.
+&lt;/p>
+&lt;/video>
+&lt;/div>
+&lt;p>&lt;a class="link" href="transcript.txt" >Transcrição&lt;/a>&lt;/p>
+&lt;blockquote>
+&lt;p>Foto da Capa de &lt;a class="link" href="https://unsplash.com/@ikukevk" target="_blank" rel="noopener"
+>Kevin Ku&lt;/a> on &lt;a class="link" href="https://unsplash.com/" target="_blank" rel="noopener"
+>Unsplash&lt;/a>&lt;/p>&lt;/blockquote></description></item></channel></rss>
