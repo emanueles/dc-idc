@@ -1,15 +1,15 @@
 ---
-title: Inteligência Computacional na Previsão de Doenças            # <- Altere o título
-description: Modelos SEIR e SIR aplicados à previsão da COVID-19    # <- Altere a descrição
-slug: equipe13-inteligencia-computacional                           # <- Altere o slug com equipeXX-temaprincipal
-date: 2025-07-29 00:00:00+0000                                      # <- Coloque a data do dia que inseriu o conteúdo         
-image: capa.jpg                                                    # <- Nome do arquivo de imagem com a capa (adicione à pasta) 
+title: Inteligência Computacional na Previsão de Doenças            
+description: Modelos SEIR e SIR aplicados à previsão da COVID-19    
+slug: equipe13-inteligencia-computacional                           
+date: 2025-07-29 10:00:00+0000                                      
+image: capa.jpg                                                    
 categories:
-  - Post                                                            # <- Deixe como está
+  - Post                                                            
 tags:
-  - Modelagem Epidemiológica                                        # <- Altere para o tema do vídeo
-  - Inteligência Computacional                                      # <- Altere para o tema do episódio. Se for igual ao de cima, remova essa linha 
-weight: 1                                                           # <- Deixe como está
+  - Modelagem Epidemiológica                                        
+  - Inteligência Computacional                                      
+weight: 1                                                         
 ---
 
 ## 👥 Equipe 13
@@ -42,7 +42,8 @@ O conteúdo foi inspirado em um artigo da **Universidade Federal do Ceará** e a
 > Disponível em: [Link do artigo](https://proceedings.science/sbpo/sbpo-2024/trabalhos/estimation-of-sir-epidemiological-model-parameters-using-computational-intellige?lang=pt-br)
 
 📺 **Assista ao vídeo:**  
-[![Assista no YouTube](https://img.youtube.com/vi/WfZu7jkYEYw/0.jpg)](https://youtu.be/WfZu7jkYEYw?si=us3G9L7-XXVl4NSk)
+
+{{< youtube "WfZu7jkYEYw" >}}
 
 ---
 
@@ -64,6 +65,10 @@ A conversa abordou de forma acessível:
 
 **Apresentação:** [Rogério Ferreira (@AT-Roger)](https://github.com/AT-Roger).  
 **Revisão:** [Caik Franco (@caikfra)](https://github.com/caikfra).  
-**Convidado:** João Samuel Maciel de Sales (joaosamuel.2001@gmail.com).
+**Convidado:** [João Samuel Maciel de Sales](mailto:joaosamuel.2001@gmail.com).
+
+🎙️ **Ouça o podcast:** 
+
+{{< audio "modelos_epidemiologicos.mp3" >}}
 
 ---
