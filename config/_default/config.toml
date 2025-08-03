@@ -15,4 +15,4 @@ hasCJKLanguage = false
 disqusShortname = ""
 
 [pagination]
-pagerSize = 10
+pagerSize = 15
