@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Machine Learning Na Saúde on DC-IDC</title><link>https://emanueles.github.io/dc-idc/tags/machine-learning-na-sa%C3%BAde/</link><description>Recent content in Machine Learning Na Saúde on DC-IDC</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Tue, 29 Jul 2025 11:00:00 +0000</lastBuildDate><atom:link href="https://emanueles.github.io/dc-idc/tags/machine-learning-na-sa%C3%BAde/index.xml" rel="self" type="application/rss+xml"/><item><title>Fake News nas Redes Sociais e Machine Learning na Saúde</title><link>https://emanueles.github.io/dc-idc/p/equipe03-temaprincipal/</link><pubDate>Tue, 29 Jul 2025 11:00:00 +0000</pubDate><guid>https://emanueles.github.io/dc-idc/p/equipe03-temaprincipal/</guid><description>&lt;img src="https://emanueles.github.io/dc-idc/p/equipe03-temaprincipal/imagem_podcast_correta.png" alt="Featured image of post Fake News nas Redes Sociais e Machine Learning na Saúde" />&lt;p>&lt;strong>Autores&lt;/strong>: &lt;a class="link" href="victor21@alu.ufc.br" >Victor Gabriel&lt;/a>, &lt;a class="link" href="adriane.kll@alu.ufc.br" >Adriane Kelle&lt;/a> e &lt;a class="link" href="luizgus@alu.ufc.br" >Luiz Gustavo&lt;/a>.&lt;/p>
+&lt;p>Nossa equipe se interessou pelos seguintes temas:&lt;/p>
+&lt;ul>
+&lt;li>Fake News nas Redes Sociais&lt;/li>
+&lt;li>Machine Learning na Saúde&lt;/li>
+&lt;/ul>
+&lt;h1 id="fake-news-nas-redes-sociais">Fake News nas Redes Sociais
+&lt;/h1>&lt;p>🛑 Cuidado com as fake news!
+Na era digital, a desinformação circula com a mesma velocidade que a verdade — ou até mais rápido. Notícias falsas se espalham nas redes sociais, grupos de mensagens e até em portais que parecem sérios. Por isso, saber como verificar a veracidade de uma informação é mais importante do que nunca.&lt;/p>
+&lt;p>📲 Neste vídeo, eu mostro sites e ferramentas confiáveis que você pode usar para checar se uma notícia é falsa antes de compartilhar. Você vai aprender a analisar manchetes suspeitas, verificar imagens manipuladas, identificar fontes não confiáveis e usar a tecnologia a seu favor.&lt;/p>
+&lt;p>✅ Se você quer combater a desinformação e proteger quem está ao seu redor, esse conteúdo é para você!&lt;/p>
+&lt;p>🔗 Assista ao vídeo, compartilhe com seus amigos e ajude a construir uma internet com mais responsabilidade e consciência.&lt;/p>
+&lt;p>🔗 Artigo Fonte: &lt;a class="link" href="https://enancib.ancib.org/index.php/enancib/xxiienancib/paper/view/1138" target="_blank" rel="noopener"
+>https://enancib.ancib.org/index.php/enancib/xxiienancib/paper/view/1138&lt;/a>&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/-eHG0cibxKo"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h1 id="machine-learning-na-saúde">Machine Learning na Saúde
+&lt;/h1>&lt;p>🔬 Edge AI e Monitoramento Cardíaco: Inovação em Tempo Real&lt;/p>
+&lt;p>Dispositivos médicos inteligentes, como relógios e sensores corporais, estão revolucionando a saúde digital. Um estudo da Universidade Federal do Ceará mostra como a Edge AI — inteligência artificial que roda diretamente nos dispositivos — pode garantir mais privacidade, diagnósticos mais rápidos e menor dependência da internet, mesmo com hardware limitado.&lt;/p>
+&lt;p>📚 A pesquisa explorou métodos como aprendizado federado e MLOps, e apresentou uma arquitetura onde um smartwatch transforma sinais PPG em ECG, detectando arritmias cardíacas em tempo real sem precisar de conexão com a nuvem.&lt;/p>
+&lt;p>💻 O estudo também demonstrou que dispositivos acessíveis como o Raspberry Pi podem alcançar alta eficiência, tornando o diagnóstico mais personalizado, contínuo e acessível para todos.&lt;/p>
+&lt;p>🎙️ Entrevista com o Prof. César Lincoln
+O nosso podcast contou com uma entrevista exclusiva com o professor &lt;a class="link" href="https://www.instagram.com/cesarlincolnmattos" target="_blank" rel="noopener"
+>César Lincoln&lt;/a>, um dos pesquisadores responsáveis, que comentou os impactos da Edge AI na medicina e os desafios futuros para essa tecnologia ganhar escala.&lt;/p>
+&lt;p>⚠️ Apesar dos avanços, ainda há desafios como consumo de energia, variação entre dispositivos e a adaptação dos modelos de IA, que precisam ser superados para consolidar essa revolução digital na área da saúde.&lt;/p>
+&lt;p>🔗 Artigo Fonte: &lt;a class="link" href="https://doi.org/10.1016/j.compeleceng.2024.109202" target="_blank" rel="noopener"
+>https://doi.org/10.1016/j.compeleceng.2024.109202&lt;/a>&lt;/p>
+&lt;div>
+&lt;audio
+controls
+src="podcast_final.mp3"
+>
+&lt;p>
+Your browser doesn't support HTML5 audio. Here is a
+&lt;a href="podcast_final.mp3">link to the audio&lt;/a> instead.
+&lt;/p>
+&lt;/video>
+&lt;/div></description></item></channel></rss>

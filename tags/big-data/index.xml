@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Big Data on DC-IDC</title><link>https://emanueles.github.io/dc-idc/tags/big-data/</link><description>Recent content in Big Data on DC-IDC</description><generator>Hugo -- gohugo.io</generator><language>pt-br</language><lastBuildDate>Wed, 30 Jul 2025 23:30:00 +0000</lastBuildDate><atom:link href="https://emanueles.github.io/dc-idc/tags/big-data/index.xml" rel="self" type="application/rss+xml"/><item><title>Bolhas Digitais e o Combate às Fake News com a Plataforma BATMAN</title><link>https://emanueles.github.io/dc-idc/p/equipe10-bolhas-digitais-batman/</link><pubDate>Wed, 30 Jul 2025 23:30:00 +0000</pubDate><guid>https://emanueles.github.io/dc-idc/p/equipe10-bolhas-digitais-batman/</guid><description>&lt;img src="https://emanueles.github.io/dc-idc/p/equipe10-bolhas-digitais-batman/capa.jpeg" alt="Featured image of post Bolhas Digitais e o Combate às Fake News com a Plataforma BATMAN" />&lt;p>&lt;strong>Autores&lt;/strong>: &lt;a class="link" href="mailto:leticiafrotamesquita@gmail.com" >Letícia Frota&lt;/a>, &lt;a class="link" href="mailto:nikellysantiago@alu.ufc.br" >Nikelly Santiago&lt;/a>, &lt;a class="link" href="mailto:victorlu3391@gmail.com" >Victor Lúcio&lt;/a>, &lt;a class="link" href="mailto:arthurthome1@gmail.com" >Artur Thomé&lt;/a>&lt;/p>
+&lt;p>Nossa equipe se interessou pelos seguintes temas:&lt;/p>
+&lt;ul>
+&lt;li>Bolhas Digitais&lt;/li>
+&lt;li>Fake News&lt;/li>
+&lt;li>Big Data&lt;/li>
+&lt;li>Misinformation Monitoring&lt;/li>
+&lt;li>Redes Sociais&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h1 id="o-que-são-bolhas-digitais-e-porque-você-deveria-fugir-delas">O que são Bolhas Digitais? (e porque você deveria fugir delas)
+&lt;/h1>&lt;p>O tema do primeiro produto de divulgação científica foi &lt;strong>bolhas digitais&lt;/strong>. Nesse vídeo, explicamos como os algoritmos de redes sociais podem criar ambientes isolados de informação, limitando a nossa exposição a diferentes perspectivas. Discutimos os perigos de se viver dentro de uma bolha, como a polarização de ideias e a dificuldade em identificar a desinformação, e oferecemos dicas práticas sobre como expandir seus horizontes informacionais.&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/x5bF8eBza-g"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;hr>
+&lt;h1 id="divulgaufc---batman-contra-as-fake-news">DivulgaUFC - Batman contra as Fake News
+&lt;/h1>&lt;p>Nosso podcast &amp;ldquo;BATMAN: Super-Heróis Contra a Desinformação!&amp;rdquo;, apresentado por &lt;a class="link" href="nikellysantiago@alu.ufc.br" >Nikelly Santiago&lt;/a>, aborda a plataforma BATMAN da UFC, focada no combate à desinformação online. Os entrevistadas foram &lt;a class="link" href="@prof.josemariamonteiro" >José Maria Monteiro&lt;/a> e &lt;a class="link" href="" >Ivandro Claudino&lt;/a>. O artigo BATMAN (&lt;a class="link" href="https://www.researchgate.net/publication/370347589_BATMAN_A_Big_Data_Platform_for_Misinformation_Monitoring" target="_blank" rel="noopener"
+>https://www.researchgate.net/publication/370347589_BATMAN_A_Big_Data_Platform_for_Misinformation_Monitoring&lt;/a>) é de autoria de Ivandro Claudino, Luciano Galic, Wellington Franco, Thiago Gadelha, José Maria Monteiro e Javam Machado, da Universidade Federal do Ceará. Exploramos como essa ferramenta de Big Data encontra e analisa notícias falsas no WhatsApp e Telegram. O episódio detalha sua tecnologia, desde a coleta de dados até a detecção de desinformação por IA. Discutimos a importância de projetos como este para enfrentar um dos maiores desafios da era digital no Brasil.&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/vIYgJ8BgBsw"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;div>
+&lt;audio
+controls
+src="DivulgaUFC%20-%20Batman%20contra%20as%20Fake%20News.mp3"
+>
+&lt;p>
+Your browser doesn't support HTML5 audio. Here is a
+&lt;a href="DivulgaUFC%20-%20Batman%20contra%20as%20Fake%20News.mp3">link to the audio&lt;/a> instead.
+&lt;/p>
+&lt;/video>
+&lt;/div></description></item></channel></rss>
