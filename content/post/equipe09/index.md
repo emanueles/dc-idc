@@ -12,7 +12,7 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-**Autores**: [Missara Lima](https://instagram.com/mislisialima), [João Igor Almeida](https://instagram.com/igoxrx), Maria Eduarda de Sousa(mariaeduardadesousa2001@alu.ufc.br) e [Gustavo Abuquerque](https://instagram.com/gusta._zzz). 
+**Autores**: [Missara Lima](https://instagram.com/mislisialima), [João Igor Almeida](https://instagram.com/igoxrx), Maria Eduarda de Sousa(mailto:mariaeduardadesousa2001@alu.ufc.br) e [Gustavo Abuquerque](https://instagram.com/gusta._zzz). 
 
 Nossa equipe se interessou pelos seguintes temas:
 
