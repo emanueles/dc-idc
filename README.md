@@ -51,8 +51,6 @@ equipe14:
 equipe15: 
  - Caio Rubem, Gleidstony, Mateus Walraven e Tamires.
 
-equipe16:
- - Francisco Renan, Victor Pena, Kelvin, José Enilson
 
 ## O que fazer
 Dentro da pasta `equipeXX` você vai adicionar um arquivo chamado `index.md`. Veja o exemplo `content/post/exemplo/index.md`, para ter uma ideia do conteúdo. 
