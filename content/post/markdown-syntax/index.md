@@ -2,10 +2,7 @@
 title: Guia de Sintaxe Markdown
 date: 2025-07-23
 description: Artigo de exemplo mostrando a sintaxe básica do Markdown e a formatação para elementos HTML.
-tags: 
-    - markdown
-    - css
-    - html
+
 ---
 
 Este artigo oferece um exemplo de sintaxe básica do Markdown que pode ser usada em arquivos de conteúdo do Hugo e também mostra se elementos HTML básicos são decorados com CSS em um tema do [Hugo](https://gohugo.io/).

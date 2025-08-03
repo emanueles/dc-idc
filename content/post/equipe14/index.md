@@ -2,7 +2,7 @@
 title: "Vazamento de Dados e Algoritmos contra a Fome"
 description: No primeiro vídeo, apresentamos uma visão panorâmica sobre alguns casos de vazamentos de dados e como tomar alguns cuidados com a sua privacidade. No episódio de podcast, mostramos como a inteligência artificial pode ser usada para combater a fome.
 slug: equipe14-algoritmos-contra-fome-ufc
-date: 2025-08-02 00:00:00+0000
+date: 2025-07-29 00:00:00+0000
 image: capa.jpg
 categories:
    - Post
@@ -11,6 +11,7 @@ tags:
    - Combate à Fome
    - Inteligência Artificial
    - Tecnologia Social
+weight: 1
 ---
 
 ## Equipe
