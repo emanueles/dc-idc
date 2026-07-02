@@ -2,7 +2,11 @@
 
 Análise feita em 2026-07-02 sobre o estado atual do repositório e proposta de mudanças para (1) suportar posts de vários semestres sem quebrar o tema/site e (2) evitar que alunos precisem baixar o conteúdo de semestres anteriores.
 
-## Status (atualizado em 2026-07-02)
+## Status: migração concluída (2026-07-02)
+
+A Opção B foi implementada e validada de ponta a ponta: `dc-idc-2025.1` e `dc-idc-2026.1` existem como Hugo Modules separados, importados pelo hub (`dc-idc`) via `module.toml` (com `source = "."` — importante, o `git subtree split` achata a estrutura, então o mount tem que apontar para a raiz do módulo, não para `content/post`). `content/post/2025.1` e `content/post/2026.1` já foram removidos do hub e o conteúdo vem só pelos módulos. `hugo list all` confirmou os 15 posts de 2025.1 servidos a partir do cache de módulos, com áudio funcionando (era preciso replicar o `.gitattributes` do LFS na raiz de cada repo de semestre — o subtree split não carrega esse arquivo, que fica fora do prefixo). `config.toml` também foi atualizado (`languageCode` → `locale`, deprecado no Hugo v0.158.0).
+
+Pendências, se surgirem no futuro: repetir os passos de "Próximos passos" para cada novo semestre (criar repo, `hugo mod init`, `.gitattributes` próprio, import no hub) — o checklist abaixo já reflete a sequência testada, incluindo as duas armadilhas descobertas nesta migração (mount `source` e `.gitattributes` ausente nos repos de semestre).
 
 Decisões confirmadas:
 - Semestre existente: **2025.1**. Novo semestre em preparação: **2026.1**.
@@ -51,37 +55,38 @@ git push git@github.com:emanueles/dc-idc-2025.1.git split-2025.1:master
 git push git@github.com:emanueles/dc-idc-2026.1.git split-2026.1:master
 ```
 
-Em cada repositório novo, rode `hugo mod init github.com/emanueles/dc-idc-2025.1` (e o equivalente para 2026.1) para virarem Hugo Modules válidos. **Importante:** esse comando roda dentro de um clone separado do repositório novo, não dentro da pasta do hub (`dc-idc`) — ele cria um `go.mod` na raiz de onde for executado, e essa raiz precisa ser o repo do semestre:
+Em cada repositório novo, rode `hugo mod init github.com/emanueles/dc-idc-2025.1` (e o equivalente para 2026.1) para virarem Hugo Modules válidos, e **copie o `.gitattributes` do hub para a raiz desse repo** — o `git subtree split` só carrega o que está dentro do prefixo (`content/post/2025.1`), então o `.gitattributes` da raiz do hub não vai junto, e sem ele o Git não sabe expandir os ponteiros do LFS ao fazer checkout (foi exatamente isso que quebrou o áudio na migração de 2026-07-02). **Importante:** esses comandos rodam dentro de um clone separado do repositório novo, não dentro da pasta do hub (`dc-idc`):
 
 ```bash
 cd ..                                              # sai da pasta do hub (dc-idc)
 git clone git@github.com:emanueles/dc-idc-2025.1.git
 cd dc-idc-2025.1
 hugo mod init github.com/emanueles/dc-idc-2025.1
-git add go.mod go.sum
-git commit -m "Inicializa dc-idc-2025.1 como Hugo Module"
+cp ../dc-idc/.gitattributes .
+git add go.mod .gitattributes    # go.sum só existe se o módulo tiver dependências — aqui não tem
+git commit -m "Inicializa dc-idc-2025.1 como Hugo Module e adiciona regras de LFS"
 git push origin master
 ```
 
 Repita para `dc-idc-2026.1` numa pasta irmã separada. Ao final você terá três pastas lado a lado, cada uma com seu próprio `.git`: `dc-idc/` (hub), `dc-idc-2025.1/` e `dc-idc-2026.1/`.
 
-No repo hub (`dc-idc`), adicione os imports em `config/_default/module.toml`:
+No repo hub (`dc-idc`), adicione os imports em `config/_default/module.toml`. **Atenção ao `source`:** como o `git subtree split` achata a estrutura (o conteúdo de `content/post/2025.1/` vira a raiz do novo repo), o mount deve apontar para a raiz do módulo (`"."`), não para `"content/post"`:
 
 ```toml
 [[imports]]
 path = "github.com/emanueles/dc-idc-2025.1"
 [[imports.mounts]]
-source = "content/post"
+source = "."
 target = "content/post/2025.1"
 
 [[imports]]
 path = "github.com/emanueles/dc-idc-2026.1"
 [[imports.mounts]]
-source = "content/post"
+source = "."
 target = "content/post/2026.1"
 ```
 
-Depois disso, remova os arquivos reais de `content/post/2025.1` e `content/post/2026.1` do repo hub (eles passam a vir dos módulos importados) e rode `hugo mod get -u` sempre que quiser puxar a versão mais recente de cada semestre antes do deploy.
+Depois de editar o `module.toml`, rode `hugo mod tidy` (atualiza `go.mod`/`go.sum` do hub) e valide com `hugo list all` antes de remover o conteúdo local — o caminho de origem de cada post deve apontar para o cache de módulos (`.../pkg/mod/github.com/emanueles/dc-idc-<semestre>@.../...`), não para `content/post/<semestre>` local. Só então remova os arquivos reais de `content/post/2025.1` e `content/post/2026.1` do repo hub (com `git rm -r` ou movendo para fora de `content/` e commitando a remoção). Rode `hugo mod get -u` sempre que quiser puxar a versão mais recente de cada semestre antes do deploy — se o Hugo já tiver cacheado uma versão antiga, rode antes `hugo mod clean`.
 
 Aviso a cada novo semestre: criar o repositório `dc-idc-<semestre>`, atualizar o `module.toml` do hub, e trocar o link do `guia-pull-request.md` para apontar para o novo repositório (upstream deixa de ser `emanueles/dc-idc` e passa a ser `emanueles/dc-idc-<semestre>`).
 
