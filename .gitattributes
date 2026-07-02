@@ -1,6 +1,17 @@
+# Arquivos de mídia versionados via Git LFS.
+# Requer Git LFS instalado (https://git-lfs.com) antes do primeiro `git add`
+# de qualquer arquivo destes tipos. Depois de instalar, rode:
+#   git lfs install
+# em cada clone/fork antes de adicionar áudio ou vídeo.
+
+*.mp3  filter=lfs diff=lfs merge=lfs -text
+*.mp4  filter=lfs diff=lfs merge=lfs -text
+*.mpeg filter=lfs diff=lfs merge=lfs -text
+*.mpg  filter=lfs diff=lfs merge=lfs -text
+*.wav  filter=lfs diff=lfs merge=lfs -text
+*.mov  filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
-*.mpeg filter=lfs diff=lfs merge=lfs -text
 *.mpg filter=lfs diff=lfs merge=lfs -text
 *.wav filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text

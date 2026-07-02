@@ -3,6 +3,7 @@ title: Textos Matemáticos
 description: Textos matemáticos usando KaTeX
 date: 2025-07-23 00:00:00+0000
 math: true
+draft: true     # Página de referência do tema — nunca deve ser publicada no site
 ---
 
 Stack possui suporte integrado para textos matemáticos usando [KaTeX](https://katex.org/).

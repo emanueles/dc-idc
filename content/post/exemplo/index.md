@@ -9,6 +9,7 @@ categories:
 tags:
     - Template
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+draft: true     # Post de referência para os alunos — nunca deve ser publicado no site
 ---
 
 **Autores**: [João Silva](https://instagram.com/username), [Maria dos Santos](https://instagram.com/username) e [José Pereira](https://instagram.com/username). 
