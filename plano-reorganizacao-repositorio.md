@@ -51,7 +51,21 @@ git push git@github.com:emanueles/dc-idc-2025.1.git split-2025.1:master
 git push git@github.com:emanueles/dc-idc-2026.1.git split-2026.1:master
 ```
 
-Em cada repositório novo, rode `hugo mod init github.com/emanueles/dc-idc-2025.1` (e o equivalente para 2026.1) para virarem Hugo Modules válidos. No repo hub (`dc-idc`), adicione os imports em `config/_default/module.toml`:
+Em cada repositório novo, rode `hugo mod init github.com/emanueles/dc-idc-2025.1` (e o equivalente para 2026.1) para virarem Hugo Modules válidos. **Importante:** esse comando roda dentro de um clone separado do repositório novo, não dentro da pasta do hub (`dc-idc`) — ele cria um `go.mod` na raiz de onde for executado, e essa raiz precisa ser o repo do semestre:
+
+```bash
+cd ..                                              # sai da pasta do hub (dc-idc)
+git clone git@github.com:emanueles/dc-idc-2025.1.git
+cd dc-idc-2025.1
+hugo mod init github.com/emanueles/dc-idc-2025.1
+git add go.mod go.sum
+git commit -m "Inicializa dc-idc-2025.1 como Hugo Module"
+git push origin master
+```
+
+Repita para `dc-idc-2026.1` numa pasta irmã separada. Ao final você terá três pastas lado a lado, cada uma com seu próprio `.git`: `dc-idc/` (hub), `dc-idc-2025.1/` e `dc-idc-2026.1/`.
+
+No repo hub (`dc-idc`), adicione os imports em `config/_default/module.toml`:
 
 ```toml
 [[imports]]

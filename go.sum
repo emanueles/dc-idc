@@ -1,2 +1,6 @@
-github.com/CaiJimmy/hugo-theme-stack/v3 v3.33.0 h1:ht00aUT5VOxuh0cq4ek6uuGMze2/pDgjxYDVCJfb3Wk=
-github.com/CaiJimmy/hugo-theme-stack/v3 v3.33.0/go.mod h1:IPmCXiIxlFSLFYS0tOmYP6ySLviyeNVSabyvSuaxD+I=
+github.com/CaiJimmy/hugo-theme-stack/v3 v3.34.2 h1:DHqOCcwrbM7H194OIXuW4D4TekNN8fn+rLWLs3ofaFQ=
+github.com/CaiJimmy/hugo-theme-stack/v3 v3.34.2/go.mod h1:IPmCXiIxlFSLFYS0tOmYP6ySLviyeNVSabyvSuaxD+I=
+github.com/emanueles/dc-idc-2025.1 v0.0.0-20260702173254-821e579be76b h1:4qmxrSTYtwhpCoi8qq+gdov3sWD4aQ7VUplvxANG5i4=
+github.com/emanueles/dc-idc-2025.1 v0.0.0-20260702173254-821e579be76b/go.mod h1:RrUy13ykbwe/weUnfHOdfuRF0zD0rFIT6aufVTPOkjQ=
+github.com/emanueles/dc-idc-2026.1 v0.0.0-20260702173216-2726d22f5240 h1:mcE9+rCAx+gNNEx85eHwthZsJKGOOkj4WQbG7hdRdqw=
+github.com/emanueles/dc-idc-2026.1 v0.0.0-20260702173216-2726d22f5240/go.mod h1:+ZFN9x983av2jEixNDrGjsQ0eI++yFcN0m2ma1gmDWU=
