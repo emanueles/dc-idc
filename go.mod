@@ -5,5 +5,5 @@ go 1.26.4
 require (
 	github.com/CaiJimmy/hugo-theme-stack/v3 v3.34.2 // indirect
 	github.com/emanueles/dc-idc-2025.1 v0.0.0-20260702173254-821e579be76b // indirect
-	github.com/emanueles/dc-idc-2026.1 v0.0.0-20260714224156-b9ecd47d5220 // indirect
+	github.com/emanueles/dc-idc-2026.1 v0.0.0-20260714225839-b964f2b01da7 // indirect
 )

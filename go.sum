@@ -2,5 +2,5 @@ github.com/CaiJimmy/hugo-theme-stack/v3 v3.34.2 h1:DHqOCcwrbM7H194OIXuW4D4TekNN8
 github.com/CaiJimmy/hugo-theme-stack/v3 v3.34.2/go.mod h1:IPmCXiIxlFSLFYS0tOmYP6ySLviyeNVSabyvSuaxD+I=
 github.com/emanueles/dc-idc-2025.1 v0.0.0-20260702173254-821e579be76b h1:4qmxrSTYtwhpCoi8qq+gdov3sWD4aQ7VUplvxANG5i4=
 github.com/emanueles/dc-idc-2025.1 v0.0.0-20260702173254-821e579be76b/go.mod h1:RrUy13ykbwe/weUnfHOdfuRF0zD0rFIT6aufVTPOkjQ=
-github.com/emanueles/dc-idc-2026.1 v0.0.0-20260714224156-b9ecd47d5220 h1:e1iqSPcaqCcVRuO/kCrQn8ark+xonEyZN3QN4pvx9Hw=
-github.com/emanueles/dc-idc-2026.1 v0.0.0-20260714224156-b9ecd47d5220/go.mod h1:+ZFN9x983av2jEixNDrGjsQ0eI++yFcN0m2ma1gmDWU=
+github.com/emanueles/dc-idc-2026.1 v0.0.0-20260714225839-b964f2b01da7 h1:tc0ulQXHtkoxKYiRW1NFsXrggTe23vmJHkYZHF3BqYg=
+github.com/emanueles/dc-idc-2026.1 v0.0.0-20260714225839-b964f2b01da7/go.mod h1:+ZFN9x983av2jEixNDrGjsQ0eI++yFcN0m2ma1gmDWU=
