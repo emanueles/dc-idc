@@ -1,0 +1,96 @@
+Podcast(16).mp3
+
+Automatically transcribed by Speechnotes on: 30/07/2025, 21:11:27
+Total recording length: 00:12:31
+
+{ 0:09 }
+E aí, pessoal? Esse é mais um episódio do podcast e divulga AUFC, um podcast para divulgar para o público jovem as pesquisas realizadas na Universidade Federal do Ceará. Meu nome é Gustavo.
+
+Speaker 2:  { 0:21 }
+E eu sou a Missara. Somos estudantes do curso de ciência de dados e hoje a gente vai falar de um tema essencial para quase todas as áreas do conhecimento, mesmo que às vezes ele passe despercebido, a estatística.
+
+Speaker 1:  { 0:31 }
+É o nosso tema é estatística, a linguagem secreta da ciência de dados. E para conversar com a gente, convidamos a professora Maria Jaqueline Batista, professora no departamento de estatística e matemática aplicada na universidade do Ceará, para nos ajudar a entender um pouco mais a fundo esse tema.
+
+Speaker 2:  { 0:49 }
+Bem-vinda, professora!
+
+Speaker 2:  { 0:51 }
+Para começar, quando falamos em estatística, muitas pessoas pensam em números, contas difíceis, talvez gráficos. Mas, afinal, para a senhora, o que é estatística de verdade? O.
+
+Speaker 3:  { 1:01 }
+Que é estatística. Então tem muitas definições, né? Assim, do que é estatística de uma forma mais é difícil ou não é difícil a palavra, mas enfim. É um contexto, né? Mas as estatísticas que eu penso nas formulas e também nessa parte, já a estatística é a coleta de dados, interpretação, né? Depois eu coleto, né, pego, faço a interpretação, depois eu passo, né, toda a minha análise, faço toda essa interpretação e construo, né? É, é, pode ser um. Relatório, né? Ou. Ou algo que precisa. E aí eu te digo, ó, a partir, né, dessas informações que eu te dei, a gente vai formular, né? Uma tomada de decisão ou fazer uma previsão, né, de alguma coisa.
+
+Speaker 1:  { 1:54 }
+Ótimo professora bem colocado. É agora assim, a senhora também dá aula de estatística para alunos do curso, como biologia, Geografia e química. Além de ter um projeto com o tema estatística nas diversas áreas do conhecimento, como a estatística se conecta com essas áreas e qual a importância dessa interdisciplinaridade?
+
+Speaker 3:  { 2:17 }
+A estatística é extremamente interdisciplinar, né? Então, estatística dá em todas as áreas, né? Tá na biologia, né? Como você falou nas engenharias, né? A gente tem uma importância, né, da muitos tomada de decisões lá.
+
+{ 2:35 }
+É na própria, se a gente for pensar, né, nas áreas como química e vem para as áreas de saúde, por exemplo, né? Nas áreas de saúde, a psicologia fazer análise do comportamento, né? Na medicina, né, tem inúmeros estudos né, que tem que ter a estatística, né, pra fazer alguns testes, né, de doenças ou de né, quando fala na farmácia, medicações, enfim. Né? Tá incluído, né? Nas diversas áreas do conhecimento, é até mesmo se pensando na física, na própria matemática, né? Tudo leva, né? AA, nossa estatística está lá incluída, né? As ferramentas, né, as técnicas a serem usadas nesses, nessas áreas.
+
+Speaker 2:  { 3:28 }
+Perfeito. A estatística realmente é muito importante em todas as áreas. Agora, entrando na nossa área. Professora, muita gente hoje fala sobre ciência de dados artificial, aprendizagem de máquina, mas a maioria das vezes esquecem que, por trás disso tudo, tem a base estatística. Qual é o papel da estatística dentro da ciência de dados, na sua opinião?
+
+Speaker 3:  { 3:48 }
+A ciência de dados precisam da estatística, né? Porque quando a gente vê a estatística, a gente tem.
+
+{ 3:54 }
+Né, desde a análise exploratória, né, de dados. Então, tudo isso, os cientistas de dados tem que fazer a análise exploratória, né, que é aquela análise descritiva, inicial, que é aonde, né? A gente é vê os gráficos, né, desde alguns gráficos simples e outros mais elaborados, tabelas, né? Tudo nessa análise exploratória. Aí depois a gente vê a parte inferencial. Depois, né, depois da inferência, né. A gente vê os modelos de regressão, que também, né, estão muito atrelados, né, a essa gama de informação, né, que a gente tem hoje. Depois dos modelos de regressão, a gente pode pensar em séries temporais que são bastante utilizados, né? No, né? É, enfim, então a estatística, né, tá ali junto da ciência de idade, né?  Então, pra ser cientista de dados você tem que conhecer essas ferramentas e estatísticas, né, pra poder fazer um excelente trabalho.
+
+Speaker 1:  { 4:58 }
+Fantástico, professora, então é, de fato, é uma coisa muito importante pra área, né? Não dá pra aprender ciência de dados sem aprender estatística. Agora, saindo um pouco mais dessa parte acadêmica, onde a estatística aparece no nosso cotidiano, é mesmo quando a gente nem percebe.
+
+Speaker 3:  { 5:15 }
+Vamos pensar, por exemplo, na previsão do tempo, né? A previsão do tempo ali tudo tem um modelo, né? Por trás é, vamos instalar, por exemplo, a própria pandemia, né? A pandemia é onde a gente começava a ver a estatista, né? Todo dia tava na televisão os gráficos, né, que dava todo aquele Panorama, né, do, né, de como era que tava o índice, né, do.
+
+{ 5:44 }
+Número de contaminados, né? E depois, né? Com aí foram ferramentas bem mais robustas em relação à eficácia da vacina, né? Tudo isso estava lá em estatística lá, né, é trabalhando, né, incluso né usando, né? Todas as técnicas que a gente tem em relação a isso, né? Deixa eu ver o que mais na própria Ah, hoje você pega 11 medicamento que você compra, né, ali no seu dia a dia, né? O medicamento, ele também passa por inúmeros testes, né, pra poder chegar lá, né, no balcão e você comprar, né? Portanto, em todo, né, um processo laboratório, né, de especialistas que mais fala, aqueles próprios algoritmos, né, que que detectam é, é.
+
+{ 6:36 }
+O que que você né, mais vê, né, na rede social ali, né, eles já te dão como é que é o seu comportamento, né, em relação ao que você tá vendo, né? Ele já traça um comportamento seu, né? Não, você vai vendo, né, lá nas redes sociais aí por que que aparece isso tanto pra mim, né? Porque essa informação sempre Vem Pra Mim, é porque eles traçam um padrão, né, do que você é e vão é fazendo esse algoritmo, né?
+
+Speaker 2:  { 7:06 }
+Aproveitando isso, professora, como a senhora lê a importância da leitura e interpretação de dados que vocês olham como mesmo fora da universidade?
+
+Speaker 3:  { 7:14 }
+É a interpretação desses dados é fundamental, né? Até para evitar é que que aconteçam. É determinadas situações que fogem, né? Podem até fugir do contexto. A própria é AI. Como é que foi divulgada a eficiência?
+
+{ 7:34 }
+Da vacina, né, tal, né, mas o que que significa aquele número? AI é fraco, é forte, né, AI eu não vou mais tomar a vacina ou não vou, né, então eu tenho toda essa, essa questão, né, então o gráfico, né, o próprio gráfico, né, da interpretação, Ah, o que que significa aquele gráfico onde eu tenho, por exemplo, um gráfico de setores, eu tenho lá, né, uma categoria que tenho mais né, ou menos, né. É quanto que aquilo ali vai ou não é influenciar. Se for dados de, sei lá, ver um que você, né, esteja olhando que naquele momento, né? Esteja. É como a pandemia, né? No auge, né? Ou ou não.  Aí que tipo de dados que a gente pode estar olhando e pode dizer, Ah, isso aqui é né, está desse jeito, então eu não vou por esse caminho ou eu vou. Então tem que ter muito cuidado nessa interpretação, né? Com dados. Por isso que quando uma informação vai ser né, ser divulgada, tem que ser informação. Bem, é fiel, né? Bem, porque senão vai pode causar um transtorno.  Mais social, né, a nível social?
+
+Speaker 1:  { 9:00 }
+Muito obrigado, professora. É, a gente agradece por você ter se disponibilizado aqui a essa entrevista. Agora sim, uma palavra final é um conselho, você você pode dar para quem? Assim é fora da área, mas tem interesse em aprender e entender um pouco mais sobre estatística.
+
+Speaker 3:  { 9:21 }
+Eu, como eu amo estatística, né? Aí veja. Mas é, por exemplo, eu tenho percebido que a estatística está cada vez mais sendo divulgada, né? É, eu tava até observando, quarto ano, quinto ano fundamental. Já tem coisas de estatística nos livros, por exemplo, é o gráfico de Barras, um de setores para criança já.
+
+{ 9:51 }
+É de história, né? Tem uns uns livros assim, bem, quais que tem nessas informações para criança já adquirindo, né? O que que é isso, né? Aí falam das de pesquisas também, né, então, né, já tá aí quando você vai também para o ensino médio, aí tem mais informação ainda, né? Em relação a estatística, já falam mais, né, de, de. É porque também, claro, né, tem as combinatórias, né, tem as combinatórias, tem, enfim, aí vem, né, pra poder você entrar na universidade, você vai aprovar e tem questões também que envolve, né? Estatística, inclusive, a última teve média mediana, né? Então é, é é uma área tão importante que que a gente quer mais ainda, né?
+
+{ 10:47 }
+Colocar, né? É divulgação. Em termos de divulgação, colocar mais ainda pra ser divulgado, né? É que as pessoas dão meu conhecimento de quanto que é importante, né? E podem abrir assim portas. E pra você desvendar aí muitas, né, informações que muitas estão lá, né? Quietinha nos dados e você pega aqueles dados e transforma, né? Informações. Extremamente relevantes, né? E preciosos né, pra aquela determinada área, né? Aí eu quero trabalhar com algo lá Na Na Geografia, né, que então não tem como ir pra esse lado, enfim, né, pra essas diversas áreas, como a gente tava falando anteriormente, né? É tão importante que a gente deve estar sempre ali, atrelado a diversas áreas, né? Conhecimento.
+
+Speaker 2:  { 11:45 }
+Professora Jacqueline, muito obrigado por participar do nosso podcast novamente, por trazer tanta clareza sobre esse tema que mesmo sendo invisível, está absolutamente em tudo.
+
+Speaker 1:  { 11:54 }
+Bom, e depois desse papo, acho que ficou claro, a estatística é a linguagem que ajuda a traduzir o mundo da biologia ao TikTok.
+
+Speaker 2:  { 12:02 }
+E a ciência de dados só funciona de verdade quando a gente entende o que os dados querem dizer e quem traduz isto é justamente a estatística.
+
+Speaker 1:  { 12:09 }
+Se você curtir o episódio, manda para aquele amigo que acha que estatística é só decorar a forma e segue a gente para não perder os próximos episódios do c sinal UFC.
+
+Speaker 2:  { 12:17 }
+Valeu, pessoal, até a próxima.
+
+
+ ---   End of transcript   --- 
+
+
+
+
+

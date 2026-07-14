@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dijkstra on DC-IDC</title><link>https://emanueles.github.io/dc-idc/tags/dijkstra/</link><description>Recent content in Dijkstra on DC-IDC</description><generator>Hugo -- gohugo.io</generator><language>pt-BR</language><lastBuildDate>Fri, 03 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://emanueles.github.io/dc-idc/tags/dijkstra/index.xml" rel="self" type="application/rss+xml"/><item><title>A Matemática Escondida nas Rotas do Maps e Aprendizagem de Máquina na Evasão Universitária</title><link>https://emanueles.github.io/dc-idc/p/equipe01-maps-ml/</link><pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate><guid>https://emanueles.github.io/dc-idc/p/equipe01-maps-ml/</guid><description>&lt;img src="https://emanueles.github.io/dc-idc/p/equipe01-maps-ml/capa.png" alt="Featured image of post A Matemática Escondida nas Rotas do Maps e Aprendizagem de Máquina na Evasão Universitária" /&gt;&lt;p&gt;&lt;strong&gt;Autores&lt;/strong&gt;: &lt;a class="link" href="lucasrian@alu.ufc.br" &gt;Lucas Rian de Sousa Pereira&lt;/a&gt;, &lt;a class="link" href="jorgesalgado1190@gmail.com" &gt;Jorge Leao Salgado Neto&lt;/a&gt;, &lt;a class="link" href="joaogabrielborges@alu.ufc.br" &gt;Joao Gabriel Borges Monteiro&lt;/a&gt;, &amp;amp; &lt;a class="link" href="joaobielos@gmail.com" &gt;Joao Gabriel Almeida De Oliveira&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Principais Temas Abordados:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Otimização&lt;/li&gt;
+&lt;li&gt;Aprendizado de Máquina&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="como-o-google-maps-encontra-o-caminho-mais-rápido"&gt;Como o Google Maps Encontra o Caminho Mais Rápido?
+&lt;/h2&gt;&lt;p&gt;Neste vídeo, abrimos a caixa preta do aplicativo mais famoso do mundo para entender como o Google Maps decide qual é o melhor caminho para você. Você vai descobrir que, para o Maps, a sua cidade não é aquele mapa bonitinho cheio de prédios, mas sim um emaranhado de pontos e linhas chamado Grafo. Vamos te explicar de forma simples como funciona o famoso Algoritmo de Dijkstra e o A* e como eles calculam o custo de cada rua para te dar a melhor rota possível. Se você achava que era mágica ou adivinhação, prepare-se para ver como a matemática resolve um dos maiores problemas do mundo real!&lt;/p&gt;
+&lt;div class="video-wrapper"&gt;
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/H7Ij4bTcc8A"
+allowfullscreen
+title="YouTube Video"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;h2 id="uso-da-inteligência-arficial-no-combate-à-evasão-universitária"&gt;Uso da Inteligência Arficial no Combate à Evasão Universitária
+&lt;/h2&gt;&lt;p&gt;Neste episódio de podcast, exploramos o uso de Inteligência Artificial para prever quem vai desistir da faculdade antes mesmo de o aluno pensar em chutar o balde. Você vai descobrir que, para o algoritmo, a vida acadêmica não é apenas um boletim de notas, mas sim uma combinação complexa de fatores que vão desde o método de ingresso até o tempo gasto no ônibus até o campus. Vamos te explicar de forma simples como funciona a Classificação com Opção de Rejeição e como o uso de duas redes neurais isola a &amp;ldquo;zona cinzenta&amp;rdquo;: aqueles alunos que estão na corda bamba e só precisam de um empurrãozinho para continuar. Se você achava que a Inteligência Artificial servia apenas para transformar as pessoas em números, prepare-se para ver como a tecnologia está ajudando a humanizar o ensino e a salvar futuros dentro da universidade pública!&lt;/p&gt;
+&lt;p&gt;O episódio foi baseado no artigo &lt;em&gt;A machine learning approach to identify and prioritize college students at risk of dropping out&lt;/em&gt;, dos pesquisadores Artur Mesquita Barbosa, Emanuele Santos e João Paulo P. Gomes (Departamento de Computação - UFC) diponível neste &lt;a class="link" href="https://sol.sbc.org.br/index.php/sbie/article/view/42193" target="_blank" rel="noopener"
+&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;div&gt;
+&lt;audio
+controls
+src="podcast.mp3"
+&gt;
+&lt;p&gt;
+Your browser doesn't support HTML5 audio. Here is a
+&lt;a href="podcast.mp3"&gt;link to the audio&lt;/a&gt; instead.
+&lt;/p&gt;
+&lt;/video&gt;
+&lt;/div&gt;</description></item></channel></rss>

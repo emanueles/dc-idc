@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Modelagem Epidemiológica on DC-IDC</title><link>https://emanueles.github.io/dc-idc/tags/modelagem-epidemiol%C3%B3gica/</link><description>Recent content in Modelagem Epidemiológica on DC-IDC</description><generator>Hugo -- gohugo.io</generator><language>pt-BR</language><lastBuildDate>Tue, 29 Jul 2025 10:00:00 +0000</lastBuildDate><atom:link href="https://emanueles.github.io/dc-idc/tags/modelagem-epidemiol%C3%B3gica/index.xml" rel="self" type="application/rss+xml"/><item><title>Inteligência Computacional na Previsão de Doenças</title><link>https://emanueles.github.io/dc-idc/p/equipe13-inteligencia-computacional/</link><pubDate>Tue, 29 Jul 2025 10:00:00 +0000</pubDate><guid>https://emanueles.github.io/dc-idc/p/equipe13-inteligencia-computacional/</guid><description>&lt;img src="https://emanueles.github.io/dc-idc/p/equipe13-inteligencia-computacional/capa.jpg" alt="Featured image of post Inteligência Computacional na Previsão de Doenças" /&gt;&lt;h2 id="-equipe-13"&gt;👥 Equipe 13
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="link" href="https://github.com/caikfra" target="_blank" rel="noopener"
+&gt;Caik Franco (@caikfra)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="link" href="https://github.com/AT-Roger" target="_blank" rel="noopener"
+&gt;Rogério Ferreira (@AT-Roger)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id="-vídeo-no-youtube"&gt;🎥 Vídeo no YouTube
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Tema:&lt;/strong&gt; &lt;em&gt;Inteligência Computacional na Previsão de Doenças: Modelo SEIR e o Método da Busca Local&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;Autores:&lt;/strong&gt; &lt;a class="link" href="https://github.com/caikfra" target="_blank" rel="noopener"
+&gt;Caik Franco (@caikfra)&lt;/a&gt;, &lt;a class="link" href="https://github.com/AT-Roger" target="_blank" rel="noopener"
+&gt;Rogério Ferreira (@AT-Roger)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Resumo:&lt;/strong&gt;&lt;br&gt;
+Neste vídeo, exploramos como a &lt;strong&gt;inteligência computacional&lt;/strong&gt; pode ser aplicada para prever a transmissão de doenças, com foco no modelo &lt;strong&gt;SEIR&lt;/strong&gt; (Suscetíveis, Expostos, Infectados e Recuperados) e no método da &lt;strong&gt;Busca Local&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;O conteúdo foi inspirado em um artigo da &lt;strong&gt;Universidade Federal do Ceará&lt;/strong&gt; e aborda:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;O que são &lt;strong&gt;modelos epidemiológicos&lt;/strong&gt; e sua importância&lt;/li&gt;
+&lt;li&gt;A dinâmica do modelo &lt;strong&gt;SEIR&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Aplicações da &lt;strong&gt;inteligência computacional&lt;/strong&gt; (Busca Global, Busca Local, etc.)&lt;/li&gt;
+&lt;li&gt;Funcionamento prático da &lt;strong&gt;Busca Local&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Desafios técnicos&lt;/strong&gt; e soluções encontradas pelos autores&lt;/li&gt;
+&lt;li&gt;Um &lt;strong&gt;exemplo de código&lt;/strong&gt; prático&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Artigo base:&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Estimation of SIR Epidemiological Model Parameters Using Computational Intelligence Methods Based on COVID-19 Data from Brazil&lt;/em&gt;&lt;br&gt;
+SALES, João Samuel Maciel de JÚNIOR; RODRIGUES MADEIRO, Rogério Ferreira; SILVA, João Paulo do Vale; COELHO, Ricardo.&lt;br&gt;
+Disponível em: &lt;a class="link" href="https://proceedings.science/sbpo/sbpo-2024/trabalhos/estimation-of-sir-epidemiological-model-parameters-using-computational-intellige?lang=pt-br" target="_blank" rel="noopener"
+&gt;Link do artigo&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;📺 &lt;strong&gt;Assista ao vídeo:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class="video-wrapper"&gt;
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/WfZu7jkYEYw"
+allowfullscreen
+title="YouTube Video"
+&gt;
+&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="-episódio-do-podcast"&gt;🎧 Episódio do Podcast
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Tema:&lt;/strong&gt; &lt;em&gt;Modelos Epidemiológicos e Predição com Inteligência Computacional&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Neste episódio, conversamos com &lt;strong&gt;João Samuel Maciel de Sales&lt;/strong&gt; (&lt;a class="link" href="mailto:joaosamuel.2001@gmail.com" &gt;joaosamuel.2001@gmail.com&lt;/a&gt;), doutorando da &lt;strong&gt;Universidade Federal do Ceará&lt;/strong&gt; e autor do artigo:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Estimation of SIR Epidemiological Model Parameters Using Computational Intelligence Methods Based on COVID-19 Data from Brazil&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
+📄 DOI: &lt;a class="link" href="https://doi.org/10.59254/sbpo-2024-193627" target="_blank" rel="noopener"
+&gt;10.59254/sbpo-2024-193627&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A conversa abordou de forma acessível:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;O papel do &lt;strong&gt;preditor-corretor&lt;/strong&gt; como motor dos métodos computacionais&lt;/li&gt;
+&lt;li&gt;A escolha pelo &lt;strong&gt;modelo SIR&lt;/strong&gt;, suas limitações e comparação com alternativas como redes neurais&lt;/li&gt;
+&lt;li&gt;Diferenças entre modelos como &lt;strong&gt;SI, SIR e SEIR&lt;/strong&gt;, em linguagem clara para o público jovem&lt;/li&gt;
+&lt;li&gt;Dificuldades de implementação e o uso da computação na modelagem de epidemias&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Apresentação:&lt;/strong&gt; &lt;a class="link" href="https://github.com/AT-Roger" target="_blank" rel="noopener"
+&gt;Rogério Ferreira (@AT-Roger)&lt;/a&gt;.&lt;br&gt;
+&lt;strong&gt;Revisão:&lt;/strong&gt; &lt;a class="link" href="https://github.com/caikfra" target="_blank" rel="noopener"
+&gt;Caik Franco (@caikfra)&lt;/a&gt;.&lt;br&gt;
+&lt;strong&gt;Convidado:&lt;/strong&gt; &lt;a class="link" href="mailto:joaosamuel.2001@gmail.com" &gt;João Samuel Maciel de Sales&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;🎙️ &lt;strong&gt;Ouça o podcast:&lt;/strong&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;audio
+controls
+src="modelos_epidemiologicos.mp3"
+&gt;
+&lt;p&gt;
+Your browser doesn't support HTML5 audio. Here is a
+&lt;a href="modelos_epidemiologicos.mp3"&gt;link to the audio&lt;/a&gt; instead.
+&lt;/p&gt;
+&lt;/video&gt;
+&lt;/div&gt;
+&lt;hr&gt;</description></item></channel></rss>
