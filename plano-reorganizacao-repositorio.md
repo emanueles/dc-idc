@@ -6,7 +6,9 @@ Análise feita em 2026-07-02 sobre o estado atual do repositório e proposta de 
 
 A Opção B foi implementada e validada de ponta a ponta: `dc-idc-2025.1` e `dc-idc-2026.1` existem como Hugo Modules separados, importados pelo hub (`dc-idc`) via `module.toml` (com `source = "."` — importante, o `git subtree split` achata a estrutura, então o mount tem que apontar para a raiz do módulo, não para `content/post`). `content/post/2025.1` e `content/post/2026.1` já foram removidos do hub e o conteúdo vem só pelos módulos. `hugo list all` confirmou os 15 posts de 2025.1 servidos a partir do cache de módulos, com áudio funcionando (era preciso replicar o `.gitattributes` do LFS na raiz de cada repo de semestre — o subtree split não carrega esse arquivo, que fica fora do prefixo). `config.toml` também foi atualizado (`languageCode` → `locale`, deprecado no Hugo v0.158.0).
 
-Pendências, se surgirem no futuro: repetir os passos de "Próximos passos" para cada novo semestre (criar repo, `hugo mod init`, `.gitattributes` próprio, import no hub) — o checklist abaixo já reflete a sequência testada, incluindo as duas armadilhas descobertas nesta migração (mount `source` e `.gitattributes` ausente nos repos de semestre).
+Pendências, se surgirem no futuro: repetir os passos de "Próximos passos" para cada novo semestre (criar repo, `hugo mod init`, `.gitattributes` próprio, import no hub) — o checklist abaixo já reflete a sequência testada, incluindo as três armadilhas descobertas nesta migração (mount `source`, `.gitattributes` ausente nos repos de semestre, e documentação na raiz do módulo virando post).
+
+**Armadilha nº 3 (descoberta em 2026-07-14):** depois que `README.md`, `EQUIPES.md` e `guia-pull-request.md` foram adicionados na raiz de `dc-idc-2026.1` (para os alunos terem instruções sem precisar ir ao hub), o mount com `source = "."` passou a tratar esses arquivos como posts — apareciam no `hugo list all` com slug vazio e todos com o mesmo permalink quebrado `/p/`. Duas tentativas de exclusão falharam: `files = ["!*.md"]` (sem barra) some com tudo, inclusive `equipeXX/index.md`, porque o glob bate em qualquer profundidade; `files = ["!/*.md"]` (com barra, tentando ancorar na raiz) também zerou a lista inteira — o comportamento exato do glob de exclusão do Hugo nesse contexto não ficou claro. **A solução que funcionou foi trocar exclusão por inclusão**: `files = ["/equipe*/**"]` — inclui só o que está dentro de pastas `equipeXX/`, então qualquer arquivo solto na raiz do módulo (README, EQUIPES, guia, go.mod, .gitattributes) fica de fora automaticamente, sem precisar prever todo caso de exclusão. Ao criar o próximo semestre, use esse `files` (inclusão, não exclusão) desde o início.
 
 Decisões confirmadas:
 - Semestre existente: **2025.1**. Novo semestre em preparação: **2026.1**.
@@ -78,13 +80,17 @@ path = "github.com/emanueles/dc-idc-2025.1"
 [[imports.mounts]]
 source = "."
 target = "content/post/2025.1"
+files = ["/equipe*/**"]
 
 [[imports]]
 path = "github.com/emanueles/dc-idc-2026.1"
 [[imports.mounts]]
 source = "."
 target = "content/post/2026.1"
+files = ["/equipe*/**"]
 ```
+
+O `files = ["/equipe*/**"]` já vem incluído desde o início — sem ele, qualquer `README.md`/`EQUIPES.md`/`guia-pull-request.md` que você colocar na raiz do repo do semestre vira um post fantasma com permalink quebrado (armadilha descoberta em 2026-07-14; veja "Status" no topo deste arquivo). Testamos duas versões com exclusão (`!*.md` e `!/*.md`) e as duas quebraram tudo — inclusão explícita das pastas `equipeXX/` foi o que funcionou de verdade.
 
 Depois de editar o `module.toml`, rode `hugo mod tidy` (atualiza `go.mod`/`go.sum` do hub) e valide com `hugo list all` antes de remover o conteúdo local — o caminho de origem de cada post deve apontar para o cache de módulos (`.../pkg/mod/github.com/emanueles/dc-idc-<semestre>@.../...`), não para `content/post/<semestre>` local. Só então remova os arquivos reais de `content/post/2025.1` e `content/post/2026.1` do repo hub (com `git rm -r` ou movendo para fora de `content/` e commitando a remoção). Rode `hugo mod get -u` sempre que quiser puxar a versão mais recente de cada semestre antes do deploy — se o Hugo já tiver cacheado uma versão antiga, rode antes `hugo mod clean`.
 

@@ -6,11 +6,11 @@ path = "github.com/emanueles/dc-idc-2025.1"
 [[imports.mounts]]
 source = "."
 target = "content/post/2025.1"
-files = ["!*.md"]
+files = ["/equipe*/**"]
 
 [[imports]]
 path = "github.com/emanueles/dc-idc-2026.1"
 [[imports.mounts]]
 source = "."
 target = "content/post/2026.1"
-files = ["!*.md"]
+files = ["/equipe*/**"]
