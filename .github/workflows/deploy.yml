@@ -6,14 +6,19 @@ on:
     pull_request:
         branches: [master]
 
+permissions:
+    contents: read
+    pages: write
+    id-token: write
+
+# Only one deployment at a time; skip queued runs, let the newest one finish.
+concurrency:
+    group: "pages"
+    cancel-in-progress: false
+
 jobs:
     build:
         runs-on: ubuntu-latest
-
-        permissions:
-            # Give the default GITHUB_TOKEN write permission to commit and push the
-            # added or changed files to the repository.
-            contents: write
 
         steps:
             - uses: actions/checkout@v4
@@ -42,10 +47,22 @@ jobs:
             - name: Build
               run: hugo --minify --gc
 
-            - name: Deploy 🚀
-              uses: JamesIves/github-pages-deploy-action@v4
+            - name: Upload artifact
+              uses: actions/upload-pages-artifact@v3
               with:
-                  branch: gh-pages
-                  folder: public
-                  clean: true
-                  single-commit: true
+                  path: ./public
+
+    # Publica no GitHub Pages via upload de artefato (não git push) — sem limite de
+    # 100 MB por arquivo, só um teto de ~1 GB para o site inteiro. Só roda em push
+    # direto na master, não em pull request.
+    deploy:
+        if: github.ref == 'refs/heads/master' && github.event_name == 'push'
+        needs: build
+        runs-on: ubuntu-latest
+        environment:
+            name: github-pages
+            url: ${{ steps.deployment.outputs.page_url }}
+        steps:
+            - name: Deploy to GitHub Pages 🚀
+              id: deployment
+              uses: actions/deploy-pages@v4
